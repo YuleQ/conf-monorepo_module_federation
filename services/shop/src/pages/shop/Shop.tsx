@@ -4,7 +4,7 @@ const Shop = () => {
 
   return (
      <h1>
-        SHOP
+        Shop link here
      </h1>
   )
 }
